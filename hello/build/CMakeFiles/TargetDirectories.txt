@@ -1,0 +1,8 @@
+/home/weikaikai/Desktop/practice-cmake/hello/build/CMakeFiles/edit_cache.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/CMakeFiles/rebuild_cache.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/src/CMakeFiles/edit_cache.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/src/CMakeFiles/rebuild_cache.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/src/CMakeFiles/hello.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/libhello/CMakeFiles/edit_cache.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/libhello/CMakeFiles/rebuild_cache.dir
+/home/weikaikai/Desktop/practice-cmake/hello/build/libhello/CMakeFiles/libhello.dir
